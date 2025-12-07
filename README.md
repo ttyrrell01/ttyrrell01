@@ -75,10 +75,6 @@ Red Hat Tools:      Satellite, subscription-manager, systemd
 - Built enterprise-grade home lab with Proxmox, monitoring, and automation
 - Successfully managing Red Hat Satellite content lifecycle
 
----
-
-## 📂 Projects (Coming Soon)
-
 
 ---
 
