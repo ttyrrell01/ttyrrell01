@@ -79,10 +79,6 @@ Red Hat Tools:      Satellite, subscription-manager, systemd
 
 ## 📂 Projects (Coming Soon)
 
-**rhel-administration-guides** - Real-world RHEL admin tasks, troubleshooting, and best practices  
-**ansible-production-playbooks** - Enterprise automation for 43+ servers (bootstrapping, hardening, compliance)  
-**homelab-infrastructure** - Complete Proxmox/Docker/monitoring stack documentation  
-**devops-learning-journey** - 24-month roadmap: Linux Admin → DevOps Engineer with RHCSA focus  
 
 ---
 
