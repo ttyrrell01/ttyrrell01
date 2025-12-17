@@ -41,13 +41,12 @@ Self-taught RHEL administrator managing 43+ production servers. Expert in system
 ```
 Operating Systems:  RHEL 7/8/9, CentOS, Ubuntu Server
 Config Management:  Ansible (playbooks, roles, AWX)
-Containers:         Docker, K3s/Kubernetes
+Containers:         Docker/Podman, K3s/Kubernetes
 Monitoring:         Prometheus, Grafana, system logs
 Networking:         Firewalld, SELinux, NFS, DNS, Tailscale
 Web Services:       NGINX, SSL/TLS automation
-Virtualization:     Proxmox VE, KVM
+Virtualization:     Proxmox VE, VMWare
 Version Control:    Git, GitLab
-Scripting:          Bash (daily), Python (learning)
 Red Hat Tools:      Satellite, subscription-manager, systemd
 ```
 
@@ -55,20 +54,10 @@ Red Hat Tools:      Satellite, subscription-manager, systemd
 
 ## 🚀 My Journey
 
-**2021** - Restaurant worker, self-teaching Linux at night  
+**2021** - Restaurant worker, self-teaching at night  
 **2022** - Helpdesk technician  
-**2023** - Promoted to Linux Administrator  
-**2024** - Implementing Ansible automation at scale  
-**2025** - Building toward DevOps engineering (RHCSA, AWS, K8s)
-
-**Key Wins:**
-- Zero tech background → managing 43 production RHEL servers in 3 years
-- Implemented Ansible automation that improved operational efficiency
-- Hardened entire server fleet: SSH, firewall, SELinux, sudo policies
-- Built automated pre-flight checks preventing patching failures
-- Deployed AWX in production using K3s (home and work)
-- Built enterprise-grade home lab with Proxmox, monitoring, and automation
-- Successfully managing Red Hat Satellite content lifecycle
+**2024** - Promoted to Linux Administrator  
+**2025** - Building toward Linux Sytems engineering (RHCSA, AWS, K8s)
 
 
 ---
@@ -86,7 +75,7 @@ Red Hat Tools:      Satellite, subscription-manager, systemd
 
 - Building GitHub portfolio with real projects
 - RHCSA certification (Q1 2025)
-- Python scripting independence
+- Python and Bash scripting 
 - Deepening Kubernetes knowledge
 - Looking for: Linux/Infrastructure Engineering roles
 
