@@ -28,11 +28,6 @@ Self-taught RHEL administrator managing 43+ production servers. Expert in system
 - Configuration drift prevention and remediation
 - Deployed AWX (Ansible Tower) in production using K3s
 
-**Containerization & Orchestration:**
-- Docker for production services (DNS, reverse proxy, monitoring stack)
-- K3s Kubernetes for AWX deployment (home and work environments)
-- Container networking, volume management, image optimization
-- Multi-container application stacks
 
 **Home Lab Infrastructure:**
 - Proxmox hypervisor managing multiple VMs and containers
